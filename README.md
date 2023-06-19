@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning to code and build
 - 🌱 I’m currently learning ...it all. im just getting my feet wet in this pool 
 - 💞️ I’m looking to collaborate on ...anything i can learn
-- 📫 How to reach me ...signiteffect5332@gmail.com
+- 📫 How to reach me ...blacktactical.info@gmail.com and https://blacktactical.info
 
 <!---
 BlackTactical/BlackTactical is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
